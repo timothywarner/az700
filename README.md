@@ -33,9 +33,6 @@
 
 - [About](#about)
   - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Support](#support)
@@ -81,23 +78,9 @@ These are my instructor-led training materials for my [Exam AZ-700: Designing an
 - Azure PowerShell
 - Azure CLI
 
-## Getting Started
-
-### Prerequisites
-
-> **[?]**
-> What are the project requirements/dependencies?
-
-### Installation
-
-> **[?]**
-> Proceed to describe how to install and get started with the project.
-
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+In order to derive maximum benefit from these materials, you should enroll in my instructor-led training. Currently I teach for [CloudSkills](https://cloudskills.io/) and [O'Reilly](https://www.oreilly.com/attend/?page=1).
 
 ## Roadmap
 
