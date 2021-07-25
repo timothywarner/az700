@@ -54,12 +54,7 @@
 
 <table><tr><td>
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions - just the ones relevant to your project.
+These are my instructor-led training materials for my [Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-700) training course.
 
 <details>
 <summary>Screenshots</summary>
@@ -78,8 +73,13 @@
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+- Microsoft Azure
+- Microsoft PowerPoint
+- Microsoft Visio
+- Microsoft Visual Studio Code
+- Techsmith Snagit
+- Azure PowerShell
+- Azure CLI
 
 ## Getting Started
 
@@ -131,7 +131,7 @@ Together, we can make Exam AZ-700 Azure Networking Solutions Course **better**!
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
-We have set up a separate document containing our [contribution guidelines](docs/CONTRIBUTING.md).
+I've set up a separate document containing my [contribution guidelines](docs/CONTRIBUTING.md).
 
 Thank you for being involved!
 
@@ -139,11 +139,11 @@ Thank you for being involved!
 
 The original setup of this repository is by [Tim Warner](https://github.com/timothywarner).
 
-For a full list of all authors and contributors, check [the contributor's page](https://github.com/timothywarner/az700/contributors).
+For a full list of all authors and contributors, check [the contributors page](https://github.com/timothywarner/az700/contributors).
 
 ## Security
 
-Exam AZ-700 Azure Networking Solutions Course follows good practices of security, but 100% security can't be granted in software.
+Exam AZ-700 Azure Networking Solutions Course follows good practices of security, but 100 percent security can't be granted in software.
 Exam AZ-700 Azure Networking Solutions Course is provided **"as is"** without any **warranty**. Use at your own risk.
 
 _For more info, please refer to the [security](docs/SECURITY.md)._
@@ -156,6 +156,4 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+Thanks to Mike Pfeiffer of CloudSkills, Laura Lewin of Pearson, Microsoft, and all my students around the world, without whom this course wouldn't exist.
