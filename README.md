@@ -92,13 +92,14 @@ See the [open issues](https://github.com/timothywarner/az700/issues) for a list 
 
 ## Support
 
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
-
-Reach out to the maintainer at one of the following places:
+Reach out to Tim at one of the following places:
 
 - [GitHub issues](https://github.com/timothywarner/az700/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - The email which is located [in GitHub profile](https://github.com/timothywarner)
+- [Twitter](http://twitter.com/techtrainertim)
+- [LinkedIn](https://www.linkedin.com/in/timothywarner)
+- [YouTube](https://www.youtube.com/channel/UCim7PFtynyPuzMHtbNyYOXA?view_as=subscriber)
+- [Personal website](https://techtrainertim.com/)
 
 ## Project assistance
 

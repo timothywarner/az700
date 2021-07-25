@@ -3,7 +3,10 @@
 ## Conceptual Knowledge
 
 * [Azure Docs](https://docs.microsoft.com/en-us/azure/)
-* sdf
+* [Azure Networking Docs](https://docs.microsoft.com/en-us/azure/networking/)
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Wire Server](https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16)
+* [Name Resolution](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
 
 ## Practical Application
 
