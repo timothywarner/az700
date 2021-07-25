@@ -32,6 +32,7 @@
 ### Secure and Monitor Networks (Hour 2)
 
 * Azure Firewall
+* WAF policies
 * NSGs / flow logs
 * Diagnostic logging
 * Network Watcher
