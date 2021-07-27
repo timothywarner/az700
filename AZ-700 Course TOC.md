@@ -39,6 +39,7 @@
   * IP groups
   * Forced tunneling
 * NSGs / flow logs
+* Bastion / JIT VM Access
 * Diagnostic logging
 * Network Watcher
 * App Gateway logs
@@ -55,3 +56,13 @@
 * Online testing
 * Item types
 * Next steps
+
+
+
+
+
+
+
+
+
+

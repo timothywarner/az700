@@ -16,6 +16,7 @@
 * [Pluralsight cloud labs](https://www.pluralsight.com/product/cloud-labs)
 * [A Cloud Guru cloud labs](https://acloudguru.com/browse-training?type=lab)
 * [Cloud Academy cloud labs](https://cloudacademy.com/library/azure/labs/)
+* [Azure Log Analytics Query Playground](https://portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade)
 
 ## Practice Exams
 
