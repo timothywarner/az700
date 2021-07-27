@@ -12,7 +12,7 @@
 
 * [Azure free account](https://azure.microsoft.com/en-us/free/)
 * [How Azure Pass works](https://www.youtube.com/watch?v=Et1hyghPjeA)
-* Microsoft Learn
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 * [Pluralsight cloud labs](https://www.pluralsight.com/product/cloud-labs)
 * [A Cloud Guru cloud labs](https://acloudguru.com/browse-training?type=lab)
 * [Cloud Academy cloud labs](https://cloudacademy.com/library/azure/labs/)
