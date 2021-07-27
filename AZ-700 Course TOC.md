@@ -27,6 +27,8 @@
 
 ### Routing, Finish (Hour 1)
 
+* Application Gateway
+  * WAF / WAF policies
 * Traffic Manager
 * Front Door
 * NAT Gateway
@@ -34,10 +36,12 @@
 ### Secure and Monitor Networks (Hour 2)
 
 * Azure Firewall
-* WAF policies
+  * IP groups
+  * Forced tunneling
 * NSGs / flow logs
 * Diagnostic logging
 * Network Watcher
+* App Gateway logs
 
 ### Private Access (Hour 3)
 
