@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://github.com/timothywarner/az700">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.png" alt="AZ-700 logo" width="100" height="120">
+    <img src="docs/images/logo3.png" alt="AZ-700 logo" width="300">
   </a>
 </h1>
 
 <div align="center">
-  Exam AZ-700 Azure Networking Solutions Course
+  Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Crash Course
   <br />
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />
