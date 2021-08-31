@@ -21,8 +21,6 @@
 * Azure Load Balancer
 * Application Gateway
 
-
-
 ## SESSION 2
 
 ### Routing, Finish (Hour 1)
