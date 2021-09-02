@@ -8,12 +8,15 @@
 * Point-to-site VPN
 * ExpressRoute
 
+
 ### Core Networking Infrastructure (Hours 2,3)
 
+* VNet deployment / ARM template
+* Virtual WAN
 * IP addressing
 * Name resolution
 * VNet peering
-* Virtual WAN
+
 
 ### Routing, Start (Hour 4)
 
