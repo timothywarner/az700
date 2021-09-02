@@ -18,13 +18,30 @@
 ### Routing, Start (Hour 4)
 
 * UDRs
-* Azure Load Balancer
-* Application Gateway
+* Firewall / Firewall manager / Policies
+* Secured Virtual Hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## SESSION 2
 
 ### Routing, Finish (Hour 1)
-
+* Azure Load Balancer
+* Application Gateway
 * Application Gateway
   * WAF / WAF policies
 * Traffic Manager
