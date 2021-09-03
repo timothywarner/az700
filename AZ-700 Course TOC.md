@@ -19,18 +19,7 @@
 
 
 ### Routing, Start (Hour 4)
-
-* UDRs
-* Firewall / Firewall manager / Policies
 * Secured Virtual Hub
-
-
-
-
-
-
-
-
 
 
 
@@ -42,7 +31,12 @@
 
 ## SESSION 2
 
-### Routing, Finish (Hour 1)
+### Routing
+
+* UDRs
+* Route Server
+* Firewall / Firewall manager / Policies
+
 * Azure Load Balancer
 * Application Gateway
 * Application Gateway
@@ -51,24 +45,21 @@
 * Front Door
 * NAT Gateway
 
-### Secure and Monitor Networks (Hour 2)
+### Secure and Monitor Networks
 
-* Azure Firewall
-  * IP groups
-  * Forced tunneling
 * NSGs / flow logs
 * Bastion / JIT VM Access
 * Diagnostic logging
 * Network Watcher
 * App Gateway logs
 
-### Private Access (Hour 3)
+### Private Access
 
 * Service endpoints
 * Private endpoints
 * App service VNet integration
 
-### Certification Deep-Dive (Hour 4)
+### Certification Deep-Dive
 
 * Exam registration
 * Online testing
