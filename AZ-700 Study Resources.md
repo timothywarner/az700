@@ -7,6 +7,10 @@
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Wire Server](https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16)
 * [Name Resolution](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+* Network Virtual Appliances
+* Azure Firewall
+* Azure Route Server
+*
 
 ## Practical Application
 
@@ -17,6 +21,7 @@
 * [A Cloud Guru cloud labs](https://acloudguru.com/browse-training?type=lab)
 * [Cloud Academy cloud labs](https://cloudacademy.com/library/azure/labs/)
 * [Azure Log Analytics Query Playground](https://portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade)
+* [Azure Bicep Playground](https://aka.ms/bicepdemo)
 
 ## Practice Exams
 
