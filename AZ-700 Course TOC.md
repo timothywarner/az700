@@ -2,24 +2,40 @@
 
 ## SESSION 1
 
-### Hybrid Networking (Hour 1)
-
-* Site-to-site VPN
-* Point-to-site VPN
-* ExpressRoute
-
-
-### Core Networking Infrastructure (Hours 2,3)
+### Core Networking Infrastructure
 
 * VNet deployment / ARM template
+  * USE ARM SNIPPETS
 * Virtual WAN
 * IP addressing
 * Name resolution
 * VNet peering
 
+### Hybrid Networking
 
-### Routing, Start (Hour 4)
+* Site-to-site VPN
+* Point-to-site VPN
+* ExpressRoute
+
+### Routing
+
 * Secured Virtual Hub
+* UDRs
+* Route Server
+* Firewall / Firewall manager / Policies
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31,11 +47,7 @@
 
 ## SESSION 2
 
-### Routing
-
-* UDRs
-* Route Server
-* Firewall / Firewall manager / Policies
+### Load Balancing
 
 * Azure Load Balancer
 * Application Gateway
@@ -65,13 +77,3 @@
 * Online testing
 * Item types
 * Next steps
-
-
-
-
-
-
-
-
-
-
