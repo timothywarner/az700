@@ -7,10 +7,11 @@
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Wire Server](https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16)
 * [Name Resolution](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
-* Network Virtual Appliances
-* Azure Firewall
-* Azure Route Server
-*
+* [Network Virtual Appliances](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha)
+* [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/)
+* [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
+* [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/)
+* [Azure NAT Gateway](https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview)
 
 ## Practical Application
 
@@ -22,13 +23,12 @@
 * [Cloud Academy cloud labs](https://cloudacademy.com/library/azure/labs/)
 * [Azure Log Analytics Query Playground](https://portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade)
 * [Azure Bicep Playground](https://aka.ms/bicepdemo)
+* [Azure user groups](https://www.meetup.com/find/?keywords=microsoft%20azure&source=EVENTS)
 
 ## Practice Exams
 
-* Nothing available yet, but here are my preferred providers:
-* [MeasureUp](https://www.measureup.com/)
-* [Whizlabs](https://www.whizlabs.com/)
-* [Tutorials Dojo](https://tutorialsdojo.com/)
+* [MeasureUp](https://www.measureup.com/microsoft-practice-test-az-700-designing-implementing-azure-networking-solutions.html)
+* [Whizlabs](https://www.whizlabs.com/microsoft-azure-exam-az-700/)
 
 ## Exam Discounts and Registration Info
 

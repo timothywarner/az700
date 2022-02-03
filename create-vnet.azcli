@@ -1,0 +1,22 @@
+az group create \
+    --name CreateVNetQS-rg \
+    --location eastus
+
+    az network vnet create \
+  --name myVNet \
+  --resource-group CreateVNetQS-rg \
+  --subnet-name default
+
+  az vm create \
+  --resource-group CreateVNetQS-rg \
+  --name myVM1 \
+  --image UbuntuLTS \
+  --generate-ssh-keys \
+  --public-ip-address myPublicIP-myVM1 \
+  --no-wait
+
+  az network public-ip show \
+  --resource-group CreateVNetQS-rg  \
+  --name myPublicIP-myVM2 \
+  --query ipAddress \
+  --output tsv
