@@ -13,6 +13,22 @@
 * [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/)
 * [Azure NAT Gateway](https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview)
 
+## Your Toolkit
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* Extensions
+  * [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+  * [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
+  * [ARM Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
+  * [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
+  * [Bicep](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep)
+* [PowerShell 7](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
+* [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps)
+* [Azure Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install)
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+* [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
+* [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10)
+
 ## Practical Application
 
 * [Azure free account](https://azure.microsoft.com/en-us/free/)

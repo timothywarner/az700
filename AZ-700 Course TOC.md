@@ -11,6 +11,13 @@
 * Name resolution
 * VNet peering
 
+
+AZURE PRIVATE DNS
+
+VIRTUAL WAN
+
+
+
 ### Hybrid Networking
 
 * Site-to-site VPN
@@ -22,7 +29,6 @@
 * Secured Virtual Hub
 * UDRs
 * Route Server
-* Firewall / Firewall manager / Policies
 
 
 
@@ -47,6 +53,40 @@
 
 ## SESSION 2
 
+* Verify Azure DNS private zone w/ ping
+
+* NAT gateway
+
+* NSG / ASG
+
+* Firewall
+  * Forced tunneling
+
+* Network Watcher tools
+
+* App Gateway / TM / Front Door
+  * WAF policies
+
+* Service / private endpoints
+
+* Monitoring / NSG flow logs
+
+* Practice exams / item types / registration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Firewall / Firewall manager / Policies
 ### Load Balancing
 
 * Azure Load Balancer
