@@ -5,6 +5,7 @@
 * [Azure Docs](https://docs.microsoft.com/en-us/azure/)
 * [Azure Networking Docs](https://docs.microsoft.com/en-us/azure/networking/)
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Azure routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
 * [Wire Server](https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16)
 * [Name Resolution](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
 * [Network Virtual Appliances](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha)
@@ -43,8 +44,10 @@
 
 ## Practice Exams
 
+* [Microsoft free practice assessments](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 * [MeasureUp](https://www.measureup.com/microsoft-practice-test-az-700-designing-implementing-azure-networking-solutions.html)
 * [Whizlabs](https://www.whizlabs.com/microsoft-azure-exam-az-700/)
+* [Udemy AZ-700 practice tests](https://www.udemy.com/topic/microsoft-az-700/)
 
 ## Exam Discounts and Registration Info
 
